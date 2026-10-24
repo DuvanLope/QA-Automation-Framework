@@ -1,6 +1,10 @@
 
 # QA Automation Framework
 
+
+![QA Automation Tests](https://github.com/DuvanLope/QA-Automation-Framework/actions/workflows/qa-tests.yml/badge.svg)
+
+
 Framework de automatización de pruebas de API REST desarrollado con Python, Pytest y Requests.
 
 ## Descripción
